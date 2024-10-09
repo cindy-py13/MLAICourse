@@ -5,7 +5,7 @@ A nontechnical report that highlights the differences between customers who did 
 # Report: Customers who did vs did not accept coupons
 
 General Observations:
-- Of all the coupon types, coffee house had by far the most (~32%), followed by restaurant < $20 (~23%) , carry out & take away (~18%), bar (~16%), and restaurant ($20-50) (~11%).
+- Of all the coupon types, coffee house had by far the most (~32%), followed by restaurant < $20 (~23%), carry out & take away (~18%), bar (~16%), and restaurant ($20-50) (~11%).
 
 ## Bar Coupon Observations
 - ~41% of bar coupons were accepted
